@@ -8,6 +8,8 @@ The project is in its final phase and uses an embedded database system such as S
 
 The necessary PHP dependencies must be activated on the server (apt install php php-sqlite3 php-gd php-mbstring).
 
+- The Authentification Token for the admin access is : ugVZGoKHaMmX1dmGM0jdMcX0390a2EnDKCXKe8ylYPbKsxIid1fuob2yarzadsZd
+
 It also uses Monerod and Electrum for the 2 cryptocurrencies that work with it (bitcoin and monero). The configurations for these are as follows:
 
 - Electrum : 
