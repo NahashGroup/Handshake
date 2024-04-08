@@ -1,6 +1,6 @@
 # Handshake as Pure-PHP-Escrow-System
 
-Handshake, the PHP and TOR friendly escrow system.
+Handshake, the crypto PHP and TOR friendly escrow system.
 
 Handshake is an escrow system with highly structured conditions so that buyers and sellers can agree together on a suitable exchange. It is the second project brought online by the Nahash group.
 
