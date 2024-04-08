@@ -34,7 +34,7 @@ rpc-login=user:yourpassword
 rpc-bind-port=18080
 daemon-address=node.moneroworld.com:18089
 
-HELP FOR WALLETS : 
+## HELP FOR WALLETS : 
 
 - Electrum
 
